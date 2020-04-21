@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-
+#changes made by jayita
 #DATASET CAN BE DOWNLOADED USING THE LINK https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset/download
 #Extract the downloaded dataset in the /CORONA_HACKBOOK/input file
 
